@@ -1,0 +1,20 @@
+export const airports = [
+  { code: 'DEL', city: 'Delhi', airport: 'Indira Gandhi International Airport', state: 'Delhi', terminal: 'T3' },
+  { code: 'BOM', city: 'Mumbai', airport: 'Chhatrapati Shivaji Maharaj International Airport', state: 'Maharashtra', terminal: 'T2' },
+  { code: 'BLR', city: 'Bengaluru', airport: 'Kempegowda International Airport', state: 'Karnataka', terminal: 'T1' },
+  { code: 'GOI', city: 'Goa', airport: 'Dabolim International Airport', state: 'Goa', terminal: 'T1' },
+  { code: 'GOX', city: 'Goa (Mopa)', airport: 'Manohar International Airport', state: 'Goa', terminal: 'T1' },
+  { code: 'HYD', city: 'Hyderabad', airport: 'Rajiv Gandhi International Airport', state: 'Telangana', terminal: 'T1' },
+  { code: 'CCU', city: 'Kolkata', airport: 'Netaji Subhash Chandra Bose International Airport', state: 'West Bengal', terminal: 'T2' },
+  { code: 'MAA', city: 'Chennai', airport: 'Chennai International Airport', state: 'Tamil Nadu', terminal: 'T4' },
+  { code: 'JAI', city: 'Jaipur', airport: 'Jaipur International Airport', state: 'Rajasthan', terminal: 'T2' },
+  { code: 'PNQ', city: 'Pune', airport: 'Pune International Airport', state: 'Maharashtra', terminal: 'T1' },
+  { code: 'COK', city: 'Kochi', airport: 'Cochin International Airport', state: 'Kerala', terminal: 'T3' },
+  { code: 'AMD', city: 'Ahmedabad', airport: 'Sardar Vallabhbhai Patel International Airport', state: 'Gujarat', terminal: 'T1' },
+  { code: 'SXR', city: 'Srinagar', airport: 'Sheikh ul-Alam International Airport', state: 'Jammu & Kashmir', terminal: 'T1' },
+  { code: 'IXC', city: 'Chandigarh', airport: 'Shaheed Bhagat Singh International Airport', state: 'Punjab', terminal: 'T1' },
+  { code: 'ATQ', city: 'Amritsar', airport: 'Sri Guru Ram Dass Jee International Airport', state: 'Punjab', terminal: 'T1' },
+  { code: 'GAU', city: 'Guwahati', airport: 'Lokpriya Gopinath Bordoloi International Airport', state: 'Assam', terminal: 'T1' },
+  { code: 'UDR', city: 'Udaipur', airport: 'Maharana Pratap Airport', state: 'Rajasthan', terminal: 'T1' },
+  { code: 'VNS', city: 'Varanasi', airport: 'Lal Bahadur Shastri International Airport', state: 'Uttar Pradesh', terminal: 'T1' }
+];
